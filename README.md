@@ -1,16 +1,11 @@
-## Hi there 👋
+## Un poco sobre mí 😎
 
-<!--
-**chrisdoc7/chrisdoc7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍ Actualmente estoy trabajando en desarrollos web, incluyendo sitios web
+- 👨‍🎓 Siempre estoy estudiando sobre tecnología, en los últimos meses un poco de: JavasScript, NodeJS, ReactJS, Typescript y Laravel
+- 🤲 Me gusta colaborar en proyectos interesantes y ayudar a las personas en sus necesidades
+- ❓ Pregúntame sobre temas relacionados con tecnología
+- ⚡ ¿Un dato curioso?: `const miPromesa = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve("Lo estoy pensando...");
+  }, Infinity);
+});`
